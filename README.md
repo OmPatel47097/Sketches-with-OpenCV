@@ -1,1 +1,3 @@
-# ML-01-Sketches-with-OpenCV
+# Sketches-with-OpenCV
+
+We will be making Sketches using OpenCV Machion Vesion Technology. 
